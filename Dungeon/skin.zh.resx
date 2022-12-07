@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="actionNO" xml:space="preserve">
+    <value>你选择了一个不恰当的举动......</value>
+  </data>
+  <data name="attack" xml:space="preserve">
+    <value>攻击!</value>
+  </data>
+  <data name="caveman" xml:space="preserve">
+    <value>无情的穴居人</value>
+  </data>
+  <data name="cheap" xml:space="preserve">
+    <value>怪物没有掉落战利品，小气的混蛋......</value>
+  </data>
+  <data name="chief" xml:space="preserve">
+    <value>无懈可击的酋长</value>
+  </data>
+  <data name="chooseAction" xml:space="preserve">
+    <value>选择一个行动:
+1) 攻击
+2) 逃跑
+3) 玩家信息
+4) 怪物信息
+5) 申请退出</value>
+  </data>
+  <data name="corpse" xml:space="preserve">
+    <value>在怪物的尸体下面是......{0}！你发现了一件物品！</value>
+  </data>
+  <data name="d1" xml:space="preserve">
+    <value>你杀死了{0}！</value>
+  </data>
+  <data name="dead" xml:space="preserve">
+    <value>你已经死了!</value>
+  </data>
+  <data name="death" xml:space="preserve">
+    <value>怪物发出了最后一击，当你倒在地上时，你想知道自己做错了什么。也许你毕竟不是天生的战士，也许攻击{0}并不像你想象的那样明智......但现在这些都不重要。你在悔恨中闭上了眼睛，进入了永恒的沉睡......</value>
+  </data>
+  <data name="deathwing" xml:space="preserve">
+    <value>死亡之翼</value>
+  </data>
+  <data name="defeat" xml:space="preserve">
+    <value>被击败的怪物：</value>
+  </data>
+  <data name="defeatmonsters" xml:space="preserve">
+    <value>你已击败了{0}个怪物！
+(输入任意键退出)</value>
+  </data>
+  <data name="disgrace" xml:space="preserve">
+    <value>耻辱......</value>
+  </data>
+  <data name="elf" xml:space="preserve">
+    <value>敏捷的精灵</value>
+  </data>
+  <data name="equip" xml:space="preserve">
+    <value>现在有装备{0}了！</value>
+  </data>
+  <data name="g2" xml:space="preserve">
+    <value>恶魔猩猩</value>
+  </data>
+  <data name="g2description" xml:space="preserve">
+    <value>啊哦，那是一只大猩猩</value>
+  </data>
+  <data name="gameover" xml:space="preserve">
+    <value>游戏结束！</value>
+  </data>
+  <data name="gnome" xml:space="preserve">
+    <value>可爱的地精</value>
+  </data>
+  <data name="goblin" xml:space="preserve">
+    <value>狡猾的哥布林</value>
+  </data>
+  <data name="i1" xml:space="preserve">
+    <value>龙之泪</value>
+  </data>
+  <data name="i18n" xml:space="preserve">
+    <value>国际化</value>
+  </data>
+  <data name="i18n2" xml:space="preserve">
+    <value>一道刺眼的光从怪物的尸体上闪过，吞噬了它的身体。一行字升到空中，你努力地读着它的内容......它说'统一码是未来？“
+
+你发现了{0}！</value>
+  </data>
+  <data name="i18n3" xml:space="preserve">
+    <value>一道耀眼的光芒在怪物瘫软的身体下闪现，你发现了一件传奇物品，{0}！</value>
+  </data>
+  <data name="i2" xml:space="preserve">
+    <value>欧丁之眼</value>
+  </data>
+  <data name="i3" xml:space="preserve">
+    <value>暴风雪火焰</value>
+  </data>
+  <data name="i4" xml:space="preserve">
+    <value>毁灭之冠</value>
+  </data>
+  <data name="i5" xml:space="preserve">
+    <value>泰坦之铠</value>
+  </data>
+  <data name="i6" xml:space="preserve">
+    <value>没有物品</value>
+  </data>
+  <data name="i7" xml:space="preserve">
+    <value>国际化之王</value>
+  </data>
+  <data name="inThisRoom" xml:space="preserve">
+    <value>在这个房间里: {0}</value>
+  </data>
+  <data name="item" xml:space="preserve">
+    <value>你将该物品与你的那件进行了比较，然后将其丢弃。你有的那件要好得多。</value>
+  </data>
+  <data name="localization" xml:space="preserve">
+    <value>本地化专家</value>
+  </data>
+  <data name="loot" xml:space="preserve">
+    <value>怪物掉落了一个{0}。</value>
+  </data>
+  <data name="monsterattack" xml:space="preserve">
+    <value>{0}在你奔跑时攻击你！</value>
+  </data>
+  <data name="monsterinfo" xml:space="preserve">
+    <value>怪物信息：</value>
+  </data>
+  <data name="native" xml:space="preserve">
+    <value>古老的土著人</value>
+  </data>
+  <data name="none" xml:space="preserve">
+    <value>无</value>
+  </data>
+  <data name="orc" xml:space="preserve">
+    <value>坚不可摧的兽人</value>
+  </data>
+  <data name="p1" xml:space="preserve">
+    <value>健康药水</value>
+  </data>
+  <data name="p2" xml:space="preserve">
+    <value>健康灵丹</value>
+  </data>
+  <data name="p3" xml:space="preserve">
+    <value>毒药</value>
+  </data>
+  <data name="p4" xml:space="preserve">
+    <value>绷带</value>
+  </data>
+  <data name="p5" xml:space="preserve">
+    <value>致命的毒药</value>
+  </data>
+  <data name="playerinfo" xml:space="preserve">
+    <value>玩家信息: </value>
+  </data>
+  <data name="poison" xml:space="preserve">
+    <value>毒药</value>
+  </data>
+  <data name="potion" xml:space="preserve">
+    <value>愚蠢的你，一口气喝下了药水，失去了{0}健康......目前健康状况：{1}-{0}/{2}</value>
+  </data>
+  <data name="potion2" xml:space="preserve">
+    <value>你使用了它并获得了{0}的健康! 目前的健康状况：{1}+{0}/{2}</value>
+  </data>
+  <data name="r1" xml:space="preserve">
+    <value>一个毛球兔子</value>
+  </data>
+  <data name="r1description" xml:space="preserve">
+    <value>这不是普通的兔子！</value>
+  </data>
+  <data name="rare" xml:space="preserve">
+    <value>稀有</value>
+  </data>
+  <data name="room" xml:space="preserve">
+    <value>让我们深入了解被称为摩尔斯厅的巨大地牢</value>
+  </data>
+  <data name="room10" xml:space="preserve">
+    <value>在门槛的另一边，一个坑在你面前。整个房间的地板都掉进了它下面的第二个房间。你可以看到对面墙上有一扇门，离满是碎石的地板有15英尺，在房间的中心位置，矗立着一根粗大的石柱，似乎是用来支撑通往下层的螺旋楼梯的。</value>
+  </data>
+  <data name="room2" xml:space="preserve">
+    <value>在这个房间的中央，一个巨大的炖锅挂在一个厚厚的铁鼎上，上面是噼里啪啦的火。烟可以从天花板上的一个洞排出，但大部分烟在天花板上膨胀，滚落下来，使房间里充满了黑暗的雾气。其他细节难以辨认，但一定有什么生物在附近，因为闻起来像是在煮一锅好汤。</value>
+  </data>
+  <data name="room3" xml:space="preserve">
+    <value>房间里的老鼠听到开门声后尖叫起来，从躺在地板中央的一具腐烂的尸体上向四面八方跑去。当它们拥挤在房间的边缘，试图从一个角落的洞里爬出来时，它们互相厮打。房间中间的那具恶臭的尸体看起来是人，但时间和老鼠造成的伤害使通过外观确定其种族成为一项极其困难的任务。</value>
+  </data>
+  <data name="room4" xml:space="preserve">
+    <value>这个房间被打碎了。一条巨大的裂缝将密室切成两半，地面和天花板都向它倾斜。仿佛这个房间被两只巨大的手抓着，像面包一样破碎。有人把一扇高大的石门从地牢其他地方的铰链上扯下来，用它来弥补房间两边15英尺的缺口。不管是什么人干的，都一定拥有巨大的力量，因为这扇门很巨大，巨大的铰链看起来被折断了。</value>
+  </data>
+  <data name="room5" xml:space="preserve">
+    <value>当门打开，你进入房间的那一刻，你被一道白色的、刺眼的光线击中。 就在你怀疑自己是否已经在地牢中时，一个细微的声音在远处回荡，让你的神经为之一振。 你的眼睛终于适应了光线，你观察着周围的环境。 然后你意识到墙上写的是什么，你小心翼翼地靠近墙壁，试图阅读这些文字。 墙上挂着用不知名的红色液体写的 "死亡 "一词。 目睹这一阴森恐怖的景象让你起了鸡皮疙瘩，你决定要尽快离开这里。</value>
+  </data>
+  <data name="room6" xml:space="preserve">
+    <value>这个小房间似乎被分为三个部分。第一部分的墙上有几个钩子，上面挂着布满灰尘的长袍。一个开放的帘子将这个空间与下一个空间隔开，下一个空间的地板上有一个干盆。在那之后是另一个分开的帘子，你可以看到几个草垫围成一个半圆，指向一个狗头人的雕像。</value>
+  </data>
+  <data name="room7" xml:space="preserve">
+    <value>在你打开这个房间的门后，潺潺的水声传入你的耳朵。你在远处的墙上看到了声音的来源：一个被艺术地雕刻成贝壳状的大喷泉，上面有一只海猫的形象，将清澈的水喷入盆中。</value>
+  </data>
+  <data name="room8" xml:space="preserve">
+    <value>一个生锈的舷梯就在门外。向房间里看去，你看到另外三个出口，也同样被舷窗挡住了。房间里有四个身着陈旧衣服和生锈的盔甲的怪物躺在靠墙的地板上。它们似乎是在休息，而不是摆出暴力姿态。</value>
+  </data>
+  <data name="room9" xml:space="preserve">
+    <value>一群蝙蝠突然从门口飞过，它们的尖叫声几乎听不到，因为它们从你头上飞过。它们从你身边飞过，进入外面的房间和大厅。乍一看，它们来的那个房间似乎很荒芜。</value>
+  </data>
+  <data name="run" xml:space="preserve">
+    <value>快跑！！！</value>
+  </data>
+  <data name="selected" xml:space="preserve">
+    <value>你选择了{0}!</value>
+  </data>
+  <data name="selectPlayer" xml:space="preserve">
+    <value>选择你的玩家
+A) 维京人
+B) 酋长
+C) 死亡之翼
+D) 精灵
+E) 穴居人
+F) 半兽人
+G) 地精
+H) 土著人
+I) 哥布林
+J) 本地化专家</value>
+  </data>
+  <data name="standard" xml:space="preserve">
+    <value>普通</value>
+  </data>
+  <data name="title" xml:space="preserve">
+    <value>=-=-末日地牢！-=-=</value>
+  </data>
+  <data name="v1" xml:space="preserve">
+    <value>伯爵</value>
+  </data>
+  <data name="v1description" xml:space="preserve">
+    <value>一只吸血鬼</value>
+  </data>
+  <data name="validOption" xml:space="preserve">
+    <value>作为对没有选择有效选项的惩罚，你已经自动变成了一个哥布林。</value>
+  </data>
+  <data name="viking" xml:space="preserve">
+    <value>维京海盗</value>
+  </data>
+  <data name="w1" xml:space="preserve">
+    <value>深渊之鞭</value>
+  </data>
+  <data name="w2" xml:space="preserve">
+    <value>生锈的刀</value>
+  </data>
+  <data name="w3" xml:space="preserve">
+    <value>长剑</value>
+  </data>
+  <data name="w4" xml:space="preserve">
+    <value>战刀</value>
+  </data>
+  <data name="w5" xml:space="preserve">
+    <value>剑</value>
+  </data>
+  <data name="w6" xml:space="preserve">
+    <value>龙气</value>
+  </data>
+  <data name="w7" xml:space="preserve">
+    <value>C#的威力</value>
+  </data>
+  <data name="welcome" xml:space="preserve">
+    <value>欢迎来到你的旅程！</value>
+  </data>
+  <data name="z1" xml:space="preserve">
+    <value>大量僵尸</value>
+  </data>
+  <data name="z1description" xml:space="preserve">
+    <value>它是活的! 它们都是活的！！！</value>
+  </data>
+</root>

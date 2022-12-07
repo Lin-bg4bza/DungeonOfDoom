@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="actionNO" xml:space="preserve">
+    <value>不適切な行動を選択しました．．．</value>
+  </data>
+  <data name="attack" xml:space="preserve">
+    <value>攻撃だ！</value>
+  </data>
+  <data name="caveman" xml:space="preserve">
+    <value>無慈悲な穴居人</value>
+  </data>
+  <data name="cheap" xml:space="preserve">
+    <value>モンスターは戦利品を落とさませんでした。（ち、けち臭い野郎．．．）</value>
+  </data>
+  <data name="chief" xml:space="preserve">
+    <value>難攻不落の酋長</value>
+  </data>
+  <data name="chooseAction" xml:space="preserve">
+    <value>行動を選んでください：
+1) 攻撃
+2) 逃げる
+3) プレイヤー情報
+4) モンスター情報
+5) ゲームをやめる</value>
+  </data>
+  <data name="corpse" xml:space="preserve">
+    <value>モンスターの死体の下には．．．なんど、 {0}が埋まっている！ アイテムを見つけました！</value>
+  </data>
+  <data name="d1" xml:space="preserve">
+    <value>{0}を殺しました！</value>
+  </data>
+  <data name="dead" xml:space="preserve">
+    <value>あなたが死にました！</value>
+  </data>
+  <data name="death" xml:space="preserve">
+    <value>モンスターにとどめを刺されたあなたは、地面に倒れながら、頭に浮かんだのは、「何がいけなかったんだろう」という疑問だった。もしかしたら自分は戦士として生まれてこなかったのかもしれない。そもそも、{0}を攻撃することは思ったほど賢明ではなかったのかもしれない......だが、そんなことはもうどうでもいい。君は後悔の念に目を閉じ、永遠の眠りへ沈んでいった......。</value>
+  </data>
+  <data name="deathwing" xml:space="preserve">
+    <value>強大な死の翼</value>
+  </data>
+  <data name="defeat" xml:space="preserve">
+    <value>倒したモンスター：</value>
+  </data>
+  <data name="defeatmonsters" xml:space="preserve">
+    <value>あなたは{0}匹のモンスターを倒しました！
+(任意のキーを入力してゲームを終了する)</value>
+  </data>
+  <data name="disgrace" xml:space="preserve">
+    <value>なんと情けない奴だ．．．</value>
+  </data>
+  <data name="elf" xml:space="preserve">
+    <value>機敏なエルフ</value>
+  </data>
+  <data name="equip" xml:space="preserve">
+    <value>{0}を装備しました！</value>
+  </data>
+  <data name="g2" xml:space="preserve">
+    <value>凶暴なゴリラ</value>
+  </data>
+  <data name="g2description" xml:space="preserve">
+    <value>やべ、あのゴリラ、でっけ．．．</value>
+  </data>
+  <data name="gameover" xml:space="preserve">
+    <value>ゲームオーバー！</value>
+  </data>
+  <data name="gnome" xml:space="preserve">
+    <value>可愛い地の精</value>
+  </data>
+  <data name="goblin" xml:space="preserve">
+    <value>狡猾なゴブリン</value>
+  </data>
+  <data name="i1" xml:space="preserve">
+    <value>龍の涙</value>
+  </data>
+  <data name="i18n" xml:space="preserve">
+    <value>国際化</value>
+  </data>
+  <data name="i18n2" xml:space="preserve">
+    <value>モンスターの死体からまばゆい光が放たれ、その体を食い尽くしていく。一行の文字が空中に浮かび上がり、あなたはその内容を読み取ろうと目を細め...確かに、「ユニコードが未来だ」と書かれている...？
+
+あなたは{0}を発見しました！</value>
+  </data>
+  <data name="i18n3" xml:space="preserve">
+    <value>ぐったりとしたモンスターの体の下で、まばゆい光が揺らいでいる．．．伝説のアイテム、{0}を発見しました！</value>
+  </data>
+  <data name="i2" xml:space="preserve">
+    <value>オーディンの目</value>
+  </data>
+  <data name="i3" xml:space="preserve">
+    <value>吹雪の炎</value>
+  </data>
+  <data name="i4" xml:space="preserve">
+    <value>破壊の王冠</value>
+  </data>
+  <data name="i5" xml:space="preserve">
+    <value>巨人の鎧</value>
+  </data>
+  <data name="i6" xml:space="preserve">
+    <value>なし</value>
+  </data>
+  <data name="i7" xml:space="preserve">
+    <value>国際化の王様</value>
+  </data>
+  <data name="inThisRoom" xml:space="preserve">
+    <value>この部屋のモンスターは：{0}</value>
+  </data>
+  <data name="item" xml:space="preserve">
+    <value>そのアイテムを装備しているものと比べたら、持っているものの方がずっとよかったと気付け、あなたはそのアイテムを捨てました。</value>
+  </data>
+  <data name="localization" xml:space="preserve">
+    <value>国際化のプロ</value>
+  </data>
+  <data name="loot" xml:space="preserve">
+    <value>モンスターは{0}を落としました</value>
+  </data>
+  <data name="monsterattack" xml:space="preserve">
+    <value>逃げると、{0}が襲ってきました！</value>
+  </data>
+  <data name="monsterinfo" xml:space="preserve">
+    <value>モンスター情報：</value>
+  </data>
+  <data name="native" xml:space="preserve">
+    <value>古の原住民</value>
+  </data>
+  <data name="none" xml:space="preserve">
+    <value>なし</value>
+  </data>
+  <data name="orc" xml:space="preserve">
+    <value>不滅のオーク</value>
+  </data>
+  <data name="p1" xml:space="preserve">
+    <value>回復ポーション</value>
+  </data>
+  <data name="p2" xml:space="preserve">
+    <value>回復エリクサー</value>
+  </data>
+  <data name="p3" xml:space="preserve">
+    <value>毒のポーション</value>
+  </data>
+  <data name="p4" xml:space="preserve">
+    <value>絆創膏</value>
+  </data>
+  <data name="p5" xml:space="preserve">
+    <value>致命的な毒薬</value>
+  </data>
+  <data name="playerinfo" xml:space="preserve">
+    <value>プレイヤー情報</value>
+  </data>
+  <data name="poison" xml:space="preserve">
+    <value>毒</value>
+  </data>
+  <data name="potion" xml:space="preserve">
+    <value>愚かなあなたは、一息にポーションを飲んでしまい、{0}の体力を失いました．．．。現在の体力 {1}-{0}/{2}</value>
+  </data>
+  <data name="potion2" xml:space="preserve">
+    <value>使ったら、{0}の体力を回復しました！ 現在の体力 {1}+{0}/{2}</value>
+  </data>
+  <data name="r1" xml:space="preserve">
+    <value>毛玉の兎</value>
+  </data>
+  <data name="r1description" xml:space="preserve">
+    <value>あれは普通な兎じゃないんだ！</value>
+  </data>
+  <data name="rare" xml:space="preserve">
+    <value>レア</value>
+  </data>
+  <data name="room" xml:space="preserve">
+    <value>巨大なダンジョン「モースホール」に入りましょう！</value>
+  </data>
+  <data name="room10" xml:space="preserve">
+    <value>ドアの敷居の向こう側で、目の前に穴が開いている。この部屋の床はすべて、その下にある2番目の部屋に落ちていた。部屋の中央付近には、モルタルの石でできた太い柱が立っており、下層に続く螺旋階段があるように見える。</value>
+  </data>
+  <data name="room2" xml:space="preserve">
+    <value>部屋の中央にあるパチパチと燃える火の上には、巨大なシチュー鍋が太い鉄の三脚で吊り下げられている。天井には穴が開いていて、火から出た煙の一部を逃がしながら、その多くは天井に広がり、部屋に暗い霧を充満させるように転がり落ちてくる。不明だが、スープを煮込んでいるような匂いがするので、何か生き物が近くにいるのだろう。</value>
+  </data>
+  <data name="room3" xml:space="preserve">
+    <value>部屋の中にいたネズミは、ドアが開くと悲鳴を上げ、床の中央に転がっている腐敗した死体から四方八方に逃げ出す。部屋の隅にある穴から這い上がろうと、部屋の端に群がり、互いに争う。部屋の真ん中にある悪臭を放つ死体は人間のように見えるが、長い時間に放置され、その上、ネズミに食い尽くしていたせいで、外見で種族を判断するのは至難の業である。</value>
+  </data>
+  <data name="room4" xml:space="preserve">
+    <value>部屋は粉々になっている。巨大なクレバスが部屋を真っ二つに切り裂き、地面と天井はそこから傾いている。まるでこの部屋が2つの巨大な手でつかまれ、パンのように壊されたかのようだ。誰かが、この地下牢のどこかにある背の高い石の扉を蝶番から引きちぎり、それを使って部屋の両側の裂け目の15フィートの隙間を埋めているのだ。扉は巨大で、巨大な蝶番は曲がってぐちゃぐちゃになっているように見えるので、何をしたにせよ、ものすごい力を持っていたに違いない。</value>
+  </data>
+  <data name="room5" xml:space="preserve">
+    <value>ドアが開き、部屋に入った瞬間、あなたは白くて眩しい光に当たった。もうダンジョンに出たかしら、と思う時、遠くから響く微妙な音があなたの神経を尖らせる。やっと目が光に慣れてきたあなたは周りを観察した。すると、壁に何が書いていると気付け、あなたは慎重に壁に近づく、文字を読もうとした。その壁は、不明な赤い液体で書いた「死」で覆われている。その不気味な景色を目撃したあなたは鳥肌が立て、一刻も早くここから出したいと決心した。</value>
+  </data>
+  <data name="room6" xml:space="preserve">
+    <value>この小さな部屋は3つの部分に分かれているようだ。最初の部屋は、壁にいくつかのフックがあり、埃を被ったローブが掛けられている。カーテンで仕切られた次の部屋は、床に乾燥した洗面器が置かれている。その奥には、半円を描くように敷き詰められた藁が、犬の頭をした男の像の方を向いているのが見える。</value>
+  </data>
+  <data name="room7" xml:space="preserve">
+    <value>ドアを開けると、水の音が耳に飛び込んできた。貝殻を模して彫られた大きな噴水があり、水盤に澄んだ水を噴き出している。</value>
+  </data>
+  <data name="room8" xml:space="preserve">
+    <value>扉の向こうには、錆び付いた吊り門が立っていた。部屋の中を見ると、同様に舷窓で塞がれた他の3つの出口が見える。壁際の部屋の床には、古びた衣服と錆びた鎧に身を包んだ4体のモンスターが横たわっている。彼らは暴力よりもむしろ安静のポーズをとっているように見える。</value>
+  </data>
+  <data name="room9" xml:space="preserve">
+    <value>コウモリの一群が突然ドアの隙間から飛び込んできて、その金切り声があなたの頭をかすめるように通り過ぎていく。彼らはあなたの前を通り過ぎ、その先の部屋やホールに飛び込んでいく。コウモリがやってきた部屋は、一見すると不毛な空間に見える。</value>
+  </data>
+  <data name="run" xml:space="preserve">
+    <value>逃げろううううう！</value>
+  </data>
+  <data name="selected" xml:space="preserve">
+    <value>あなたが選んだのは：{0}</value>
+  </data>
+  <data name="selectPlayer" xml:space="preserve">
+    <value>キャラクターを選んでください：
+A) バイキング
+B) 酋長
+C) 死の翼
+D) エルフ
+E) 穴居人
+F) オーク
+G) 知の精
+H) 原住民
+I) ゴブリン
+J) 国際化のプロ</value>
+  </data>
+  <data name="standard" xml:space="preserve">
+    <value>普通</value>
+  </data>
+  <data name="title" xml:space="preserve">
+    <value>=-=-破滅のダンジョン-=-=</value>
+  </data>
+  <data name="v1" xml:space="preserve">
+    <value>伯爵</value>
+  </data>
+  <data name="v1description" xml:space="preserve">
+    <value>一人のバンパイア</value>
+  </data>
+  <data name="validOption" xml:space="preserve">
+    <value>有効な選択肢を選ばなかった罰として、あなたは自動的にゴブリンになりました。</value>
+  </data>
+  <data name="viking" xml:space="preserve">
+    <value>航海のバイキング</value>
+  </data>
+  <data name="w1" xml:space="preserve">
+    <value>深淵の鞭</value>
+  </data>
+  <data name="w2" xml:space="preserve">
+    <value>錆びたナイフ</value>
+  </data>
+  <data name="w3" xml:space="preserve">
+    <value>太刀</value>
+  </data>
+  <data name="w4" xml:space="preserve">
+    <value>コンバットナイフ</value>
+  </data>
+  <data name="w5" xml:space="preserve">
+    <value>剣</value>
+  </data>
+  <data name="w6" xml:space="preserve">
+    <value>龍の息</value>
+  </data>
+  <data name="w7" xml:space="preserve">
+    <value>C#の力</value>
+  </data>
+  <data name="welcome" xml:space="preserve">
+    <value>不思議な旅へようこそ！</value>
+  </data>
+  <data name="z1" xml:space="preserve">
+    <value>ゾンビの群れ</value>
+  </data>
+  <data name="z1description" xml:space="preserve">
+    <value>罰当たりの化け物め！神への不敬だ！</value>
+  </data>
+</root>

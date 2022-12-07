@@ -1,0 +1,118 @@
+C:\Users\cecil\Downloads\Dungeon-main\Dungeon-main\Dungeon\bin\Debug\Dungeon.exe.config
+C:\Users\cecil\Downloads\Dungeon-main\Dungeon-main\Dungeon\bin\Debug\Dungeon.exe
+C:\Users\cecil\Downloads\Dungeon-main\Dungeon-main\Dungeon\bin\Debug\Dungeon.pdb
+C:\Users\cecil\Downloads\Dungeon-main\Dungeon-main\Dungeon\bin\Debug\DungeonLibrary.dll
+C:\Users\cecil\Downloads\Dungeon-main\Dungeon-main\Dungeon\bin\Debug\DungeonLibrary.pdb
+C:\Users\cecil\Downloads\Dungeon-main\Dungeon-main\Dungeon\obj\Debug\Dungeon.csproj.AssemblyReference.cache
+C:\Users\cecil\Downloads\Dungeon-main\Dungeon-main\Dungeon\obj\Debug\Dungeon.csproj.SuggestedBindingRedirects.cache
+C:\Users\cecil\Downloads\Dungeon-main\Dungeon-main\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\cecil\Downloads\Dungeon-main\Dungeon-main\Dungeon\obj\Debug\Dungeon.csproj.CopyComplete
+C:\Users\cecil\Downloads\Dungeon-main\Dungeon-main\Dungeon\obj\Debug\Dungeon.exe
+C:\Users\cecil\Downloads\Dungeon-main\Dungeon-main\Dungeon\obj\Debug\Dungeon.pdb
+D:\AAA software localization\Dungeon-main\Dungeon-main\Dungeon\bin\Debug\Dungeon.exe.config
+D:\AAA software localization\Dungeon-main\Dungeon-main\Dungeon\bin\Debug\Dungeon.exe
+D:\AAA software localization\Dungeon-main\Dungeon-main\Dungeon\bin\Debug\Dungeon.pdb
+D:\AAA software localization\Dungeon-main\Dungeon-main\Dungeon\bin\Debug\DungeonLibrary.dll
+D:\AAA software localization\Dungeon-main\Dungeon-main\Dungeon\bin\Debug\DungeonLibrary.pdb
+D:\AAA software localization\Dungeon-main\Dungeon-main\Dungeon\obj\Debug\Dungeon.csproj.AssemblyReference.cache
+D:\AAA software localization\Dungeon-main\Dungeon-main\Dungeon\obj\Debug\Dungeon.csproj.SuggestedBindingRedirects.cache
+D:\AAA software localization\Dungeon-main\Dungeon-main\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+D:\AAA software localization\Dungeon-main\Dungeon-main\Dungeon\obj\Debug\Dungeon.csproj.CopyComplete
+D:\AAA software localization\Dungeon-main\Dungeon-main\Dungeon\obj\Debug\Dungeon.exe
+D:\AAA software localization\Dungeon-main\Dungeon-main\Dungeon\obj\Debug\Dungeon.pdb
+D:\AAA software localization\Dungeon-main\Dungeon-main\Dungeon\obj\Debug\Dungeon.skin.resources
+D:\AAA software localization\Dungeon-main\Dungeon-main\Dungeon\obj\Debug\Dungeon.csproj.GenerateResource.cache
+C:\Users\allei\OneDrive\Desktop\Software Loc\FinalProj\Dungeon\bin\Debug\Dungeon.exe.config
+C:\Users\allei\OneDrive\Desktop\Software Loc\FinalProj\Dungeon\bin\Debug\Dungeon.exe
+C:\Users\allei\OneDrive\Desktop\Software Loc\FinalProj\Dungeon\bin\Debug\Dungeon.pdb
+C:\Users\allei\OneDrive\Desktop\Software Loc\FinalProj\Dungeon\bin\Debug\DungeonLibrary.dll
+C:\Users\allei\OneDrive\Desktop\Software Loc\FinalProj\Dungeon\bin\Debug\DungeonLibrary.pdb
+C:\Users\allei\OneDrive\Desktop\Software Loc\FinalProj\Dungeon\obj\Debug\Dungeon.csproj.AssemblyReference.cache
+C:\Users\allei\OneDrive\Desktop\Software Loc\FinalProj\Dungeon\obj\Debug\Dungeon.csproj.SuggestedBindingRedirects.cache
+C:\Users\allei\OneDrive\Desktop\Software Loc\FinalProj\Dungeon\obj\Debug\Dungeon.skin.resources
+C:\Users\allei\OneDrive\Desktop\Software Loc\FinalProj\Dungeon\obj\Debug\Dungeon.csproj.GenerateResource.cache
+C:\Users\allei\OneDrive\Desktop\Software Loc\FinalProj\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\allei\OneDrive\Desktop\Software Loc\FinalProj\Dungeon\obj\Debug\Dungeon.csproj.CopyComplete
+C:\Users\allei\OneDrive\Desktop\Software Loc\FinalProj\Dungeon\obj\Debug\Dungeon.exe
+C:\Users\allei\OneDrive\Desktop\Software Loc\FinalProj\Dungeon\obj\Debug\Dungeon.pdb
+D:\AAA software localization\Dungeon_extracted\Dungeon\bin\Debug\Dungeon.exe.config
+D:\AAA software localization\Dungeon_extracted\Dungeon\bin\Debug\Dungeon.exe
+D:\AAA software localization\Dungeon_extracted\Dungeon\bin\Debug\Dungeon.pdb
+D:\AAA software localization\Dungeon_extracted\Dungeon\bin\Debug\DungeonLibrary.dll
+D:\AAA software localization\Dungeon_extracted\Dungeon\bin\Debug\DungeonLibrary.pdb
+D:\AAA software localization\Dungeon_extracted\Dungeon\obj\Debug\Dungeon.csproj.AssemblyReference.cache
+D:\AAA software localization\Dungeon_extracted\Dungeon\obj\Debug\Dungeon.csproj.SuggestedBindingRedirects.cache
+D:\AAA software localization\Dungeon_extracted\Dungeon\obj\Debug\Dungeon.skin.resources
+D:\AAA software localization\Dungeon_extracted\Dungeon\obj\Debug\Dungeon.csproj.GenerateResource.cache
+D:\AAA software localization\Dungeon_extracted\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+D:\AAA software localization\Dungeon_extracted\Dungeon\obj\Debug\Dungeon.csproj.CopyComplete
+D:\AAA software localization\Dungeon_extracted\Dungeon\obj\Debug\Dungeon.exe
+D:\AAA software localization\Dungeon_extracted\Dungeon\obj\Debug\Dungeon.pdb
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\bin\Debug\Dungeon.exe.config
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\bin\Debug\Dungeon.exe
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\bin\Debug\Dungeon.pdb
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\bin\Debug\DungeonLibrary.dll
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\bin\Debug\DungeonLibrary.pdb
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\obj\Debug\Dungeon.csproj.AssemblyReference.cache
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\obj\Debug\Dungeon.csproj.SuggestedBindingRedirects.cache
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\obj\Debug\Dungeon.skin.resources
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\obj\Debug\Dungeon.csproj.GenerateResource.cache
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\obj\Debug\Dungeon.csproj.CopyComplete
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\obj\Debug\Dungeon.exe
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\obj\Debug\Dungeon.pdb
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\bin\Debug\ja-JP\Dungeon.resources.dll
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\bin\Debug\ja-JP\DungeonLibrary.resources.dll
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\obj\Debug\Dungeon.skin.ja-JP.resources
+D:\AAA software localization\Dungeon_readyToTranslate\Dungeon\obj\Debug\ja-JP\Dungeon.resources.dll
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\bin\Debug\Dungeon.exe.config
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\bin\Debug\Dungeon.exe
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\bin\Debug\Dungeon.pdb
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\bin\Debug\ja-JP\Dungeon.resources.dll
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\bin\Debug\DungeonLibrary.dll
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\bin\Debug\DungeonLibrary.pdb
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\bin\Debug\ja-JP\DungeonLibrary.resources.dll
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\obj\Debug\Dungeon.csproj.AssemblyReference.cache
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\obj\Debug\Dungeon.csproj.SuggestedBindingRedirects.cache
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\obj\Debug\Dungeon.skin.resources
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\obj\Debug\Dungeon.skin.ja-JP.resources
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\obj\Debug\Dungeon.csproj.GenerateResource.cache
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\obj\Debug\ja-JP\Dungeon.resources.dll
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\obj\Debug\Dungeon.csproj.CopyComplete
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\obj\Debug\Dungeon.exe
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\obj\Debug\Dungeon.pdb
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\bin\Debug\fr\DungeonLibrary.resources.dll
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\bin\Debug\zh\Dungeon.resources.dll
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\obj\Debug\Dungeon.skin.zh.resources
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\obj\Debug\zh\Dungeon.resources.dll
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\bin\Debug\zh\DungeonLibrary.resources.dll
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\bin\Debug\fr\Dungeon.resources.dll
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\obj\Debug\Dungeon.skin.fr.resources
+C:\Users\ritaz\OneDrive\桌面\software final\Dungeon_readyToTranslate (with ja-JP)\Dungeon_readyToTranslate (with ja-JP)\Dungeon\obj\Debug\fr\Dungeon.resources.dll
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\bin\Debug\Dungeon.exe.config
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\bin\Debug\Dungeon.exe
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\bin\Debug\Dungeon.pdb
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\bin\Debug\fr\Dungeon.resources.dll
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\bin\Debug\ja\Dungeon.resources.dll
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\bin\Debug\zh\Dungeon.resources.dll
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\bin\Debug\DungeonLibrary.dll
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\bin\Debug\DungeonLibrary.pdb
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\bin\Debug\fr\DungeonLibrary.resources.dll
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\bin\Debug\ja-JP\DungeonLibrary.resources.dll
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\bin\Debug\zh\DungeonLibrary.resources.dll
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\bin\Debug\ja\DungeonLibrary.resources.dll
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\obj\Debug\Dungeon.csproj.AssemblyReference.cache
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\obj\Debug\Dungeon.csproj.SuggestedBindingRedirects.cache
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\obj\Debug\Dungeon.skin.resources
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\obj\Debug\Dungeon.skin.fr.resources
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\obj\Debug\Dungeon.skin.ja.resources
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\obj\Debug\Dungeon.skin.zh.resources
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\obj\Debug\Dungeon.csproj.GenerateResource.cache
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\obj\Debug\Dungeon.csproj.CoreCompileInputs.cache
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\obj\Debug\fr\Dungeon.resources.dll
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\obj\Debug\ja\Dungeon.resources.dll
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\obj\Debug\zh\Dungeon.resources.dll
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\obj\Debug\Dungeon.csproj.CopyComplete
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\obj\Debug\Dungeon.exe
+D:\AAA software localization\Dungeon_localized\Dungeon_localized\Dungeon\obj\Debug\Dungeon.pdb

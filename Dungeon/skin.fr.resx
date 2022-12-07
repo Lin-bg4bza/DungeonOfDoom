@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="actionNO" xml:space="preserve">
+    <value>Vous avez choisi une action inappropriée...</value>
+  </data>
+  <data name="attack" xml:space="preserve">
+    <value>Attaquez !</value>
+  </data>
+  <data name="caveman" xml:space="preserve">
+    <value>L'impitoyable homme des cavernes</value>
+  </data>
+  <data name="cheap" xml:space="preserve">
+    <value>Le monstre n'a pas laissé de butin, sale bâtard...</value>
+  </data>
+  <data name="chief" xml:space="preserve">
+    <value>Chef inattaquable</value>
+  </data>
+  <data name="chooseAction" xml:space="preserve">
+    <value>Choisissez une action :
+1) Attaquez
+2) Courir
+3) Informations sur le joueur
+4) Informations sur le monstre
+5) Demande de sortie</value>
+  </data>
+  <data name="corpse" xml:space="preserve">
+    <value>Sous le cadavre du monstre se trouvait... {0} ! Vous avez trouvé un objet !</value>
+  </data>
+  <data name="d1" xml:space="preserve">
+    <value>Tu as tué {0} !</value>
+  </data>
+  <data name="dead" xml:space="preserve">
+    <value>Tu es mort !</value>
+  </data>
+  <data name="death" xml:space="preserve">
+    <value>Le monstre donne le coup de grâce, et tandis que tu tombes au sol, tu te demandes ce que tu as fait de mal. Peut-être n'étais-tu pas né guerrier après tout, ou peut-être que l'attaque de {0} n'était pas aussi sage que tu le pensais... Mais rien de tout cela n'a d'importance maintenant. Tu as fermé les yeux de remords et tu es entré dans un sommeil éternel...</value>
+  </data>
+  <data name="deathwing" xml:space="preserve">
+    <value>Dominer Deathwing</value>
+  </data>
+  <data name="defeat" xml:space="preserve">
+    <value>Monstres vaincus :</value>
+  </data>
+  <data name="defeatmonsters" xml:space="preserve">
+    <value>Vous avez vaincu {0} monstres !
+(Saisissez n'importe quelle touche pour sortir)</value>
+  </data>
+  <data name="disgrace" xml:space="preserve">
+    <value>Disgracieux...</value>
+  </data>
+  <data name="elf" xml:space="preserve">
+    <value>Elfe agile</value>
+  </data>
+  <data name="equip" xml:space="preserve">
+    <value>{0} est maintenant équipé !</value>
+  </data>
+  <data name="g2" xml:space="preserve">
+    <value>Gorille démoniaque</value>
+  </data>
+  <data name="g2description" xml:space="preserve">
+    <value>Uh oh, c'est un gros gorille.</value>
+  </data>
+  <data name="gameover" xml:space="preserve">
+    <value>Fin de la partie !</value>
+  </data>
+  <data name="gnome" xml:space="preserve">
+    <value>Gnome mignon</value>
+  </data>
+  <data name="goblin" xml:space="preserve">
+    <value>Lutin rusé</value>
+  </data>
+  <data name="i1" xml:space="preserve">
+    <value>Larme de dragon</value>
+  </data>
+  <data name="i18n" xml:space="preserve">
+    <value>Internationalisation</value>
+  </data>
+  <data name="i18n2" xml:space="preserve">
+    <value>Une lumière aveuglante jaillit du cadavre du monstre, dévorant son corps. Une ligne de mots s'élève dans l'air, vous luttez pour lire ce qu'elle dit... elle dit 'Unicode is the future'... ?
+
+Vous avez découvert {0} !</value>
+  </data>
+  <data name="i18n3" xml:space="preserve">
+    <value>Une lumière éblouissante brille sous le corps mou du monstre, vous avez découvert un objet légendaire, le {0} !</value>
+  </data>
+  <data name="i2" xml:space="preserve">
+    <value>L'œil d'Odin</value>
+  </data>
+  <data name="i3" xml:space="preserve">
+    <value>Flamme blizzard</value>
+  </data>
+  <data name="i4" xml:space="preserve">
+    <value>Couronne de la destruction</value>
+  </data>
+  <data name="i5" xml:space="preserve">
+    <value>L'armure des Titans</value>
+  </data>
+  <data name="i6" xml:space="preserve">
+    <value>Aucun article</value>
+  </data>
+  <data name="i7" xml:space="preserve">
+    <value>Le roi de l'internationalisation</value>
+  </data>
+  <data name="inThisRoom" xml:space="preserve">
+    <value>Dans cette pièce : {0}</value>
+  </data>
+  <data name="item" xml:space="preserve">
+    <value>Vous avez comparé l'objet à celui que vous aviez, et l'avez jeté. Celui que vous aviez était bien meilleur.</value>
+  </data>
+  <data name="localization" xml:space="preserve">
+    <value>Professionnel de la localisation</value>
+  </data>
+  <data name="loot" xml:space="preserve">
+    <value>Le monstre a laissé tomber un {0}</value>
+  </data>
+  <data name="monsterattack" xml:space="preserve">
+    <value>{0} vous attaque pendant que vous courez !</value>
+  </data>
+  <data name="monsterinfo" xml:space="preserve">
+    <value>Informations sur les monstres :</value>
+  </data>
+  <data name="native" xml:space="preserve">
+    <value>Ancienne Native</value>
+  </data>
+  <data name="none" xml:space="preserve">
+    <value>Aucun</value>
+  </data>
+  <data name="orc" xml:space="preserve">
+    <value>Orque indestructible</value>
+  </data>
+  <data name="p1" xml:space="preserve">
+    <value>Potion de santé</value>
+  </data>
+  <data name="p2" xml:space="preserve">
+    <value>Élixir de santé</value>
+  </data>
+  <data name="p3" xml:space="preserve">
+    <value>Potion empoisonnée</value>
+  </data>
+  <data name="p4" xml:space="preserve">
+    <value>Pansement</value>
+  </data>
+  <data name="p5" xml:space="preserve">
+    <value>Poison fatal</value>
+  </data>
+  <data name="playerinfo" xml:space="preserve">
+    <value>Informations sur les joueurs :</value>
+  </data>
+  <data name="poison" xml:space="preserve">
+    <value>Poison</value>
+  </data>
+  <data name="potion" xml:space="preserve">
+    <value>Idiot comme vous êtes, vous avez bu la potion d'un trait et perdu {0} points de vie...  Santé actuelle : {1}-{0}/{2}</value>
+  </data>
+  <data name="potion2" xml:space="preserve">
+    <value>Vous l'avez utilisé et avez gagné {0} points de vie ! Santé actuelle : {1}+{0}/{2}</value>
+  </data>
+  <data name="r1" xml:space="preserve">
+    <value>Un lapin de Furball</value>
+  </data>
+  <data name="r1description" xml:space="preserve">
+    <value>Ce n'est pas un lapin ordinaire !</value>
+  </data>
+  <data name="rare" xml:space="preserve">
+    <value>Rare</value>
+  </data>
+  <data name="room" xml:space="preserve">
+    <value>Plongeons dans l'énorme donjon connu sous le nom de Morse Hall.</value>
+  </data>
+  <data name="room10" xml:space="preserve">
+    <value>Une fosse s'ouvre devant vous, juste de l'autre côté du seuil de la porte. Le sol entier de la pièce s'est effondré dans une deuxième pièce en dessous. De l'autre côté, vous pouvez apercevoir une porte dans le mur, maintenant à 15 pieds du sol jonché de gravats, et près du centre de la pièce se dresse une épaisse colonne de pierre mortier qui semble contenir l'escalier en spirale qui mène à ce qui était le niveau inférieur.</value>
+  </data>
+  <data name="room2" xml:space="preserve">
+    <value>Un énorme faitout est suspendu à un épais trépied de fer au-dessus d'un feu crépitant au centre de cette pièce. Un trou dans le plafond permet à une partie de la fumée du feu de s'échapper, mais une grande partie s'étend sur le plafond et roule vers le bas pour remplir la pièce d'un brouillard sombre. Les autres détails sont difficiles à distinguer, mais une créature doit être à proximité, car cela sent comme une bonne soupe en train de cuire.</value>
+  </data>
+  <data name="room3" xml:space="preserve">
+    <value>Les rats à l'intérieur de la pièce hurlent lorsqu'ils entendent la porte s'ouvrir, puis ils courent dans toutes les directions à partir d'un cadavre putride gisant au centre du sol. Alors que ces créatures se pressent sur les bords de la pièce, cherchant à ramper par un trou dans un coin, elles se battent entre elles. Le cadavre puant au milieu de la pièce a l'air humain, mais les dégâts causés par le temps et les rats sont suffisants pour que la détermination de sa race par l'apparence soit une tâche extrêmement difficile, au mieux.</value>
+  </data>
+  <data name="room4" xml:space="preserve">
+    <value>Cette pièce est brisée. Une énorme crevasse coupe la chambre en deux, et le sol et les plafonds sont inclinés à l'écart. C'est comme si la pièce avait été saisie par deux énormes mains et brisée comme une miche de pain. Quelqu'un a arraché une grande porte en pierre de ses gonds quelque part dans le donjon et l'a utilisée pour combler l'écart de 15 pieds du gouffre entre les deux côtés de la pièce. Ce qui a fait cela devait posséder une force énorme car la porte est énorme et les énormes charnières semblent tordues et mutilées.</value>
+  </data>
+  <data name="room5" xml:space="preserve">
+    <value>Vous ouvrez la porte et vous voyez une très grande silhouette en cape noire qui se tient au bout de la pièce. Vous voulez entrer, mais ce sentiment de malheur imminent ne vous empêche pas de bouger...</value>
+  </data>
+  <data name="room6" xml:space="preserve">
+    <value>Cette petite chambre semble divisée en trois parties. La première possède plusieurs crochets sur les murs auxquels sont suspendues des robes poussiéreuses. Un rideau ouvert sépare cet espace du suivant, où se trouve un bassin sec posé sur le sol. Au-delà se trouve un autre rideau entrouvert derrière lequel on peut voir plusieurs nattes de paille en demi-cercle pointant vers une statue d'un homme à tête de chien.</value>
+  </data>
+  <data name="room7" xml:space="preserve">
+    <value>Le bruit de l'eau vous parvient aux oreilles après avoir ouvert la porte de cette pièce. Vous voyez la source du bruit dans le mur du fond : une grande fontaine sculptée avec art pour ressembler à un coquillage avec la figure d'un marin crachant de l'eau claire dans son bassin.</value>
+  </data>
+  <data name="room8" xml:space="preserve">
+    <value>Une herse rouillée se trouve juste derrière la porte. En regardant dans la pièce, vous voyez trois autres sorties, également bloquées par des herse. Quatre monstres vêtus de vêtements usés et d'armures rouillées gisent sur le sol de la pièce, contre les murs. Ils semblent dans des poses de repos plutôt que de violence.</value>
+  </data>
+  <data name="room9" xml:space="preserve">
+    <value>Une nuée de chauves-souris traverse soudainement la porte, leur cri est à peine audible alors qu'elles passent devant vos têtes. Elles vous dépassent dans les pièces et les couloirs au-delà. La pièce d'où elles viennent semble stérile à première vue.</value>
+  </data>
+  <data name="run" xml:space="preserve">
+    <value>Courezzzz !!</value>
+  </data>
+  <data name="selected" xml:space="preserve">
+    <value>Vous avez sélectionné {0} !</value>
+  </data>
+  <data name="selectPlayer" xml:space="preserve">
+    <value>Sélectionnez votre joueur
+A) Viking
+B) Chef
+C) Aile de mort
+D) Elfe
+E) Homme des cavernes
+F) Orque
+G) Gnome
+H) Autochtone
+I) Gobelin
+J) Professionnel de la localisation</value>
+  </data>
+  <data name="standard" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="title" xml:space="preserve">
+    <value>=-=-LE DONJON DU MALHEUR-=-=</value>
+  </data>
+  <data name="v1" xml:space="preserve">
+    <value>Le comte</value>
+  </data>
+  <data name="v1description" xml:space="preserve">
+    <value>Un Vampire</value>
+  </data>
+  <data name="validOption" xml:space="preserve">
+    <value>Comme punition pour ne pas avoir choisi une option valide, vous êtes automatiquement devenu un Gobelin.</value>
+  </data>
+  <data name="viking" xml:space="preserve">
+    <value>Viking marin</value>
+  </data>
+  <data name="w1" xml:space="preserve">
+    <value>Fouet abyssal</value>
+  </data>
+  <data name="w2" xml:space="preserve">
+    <value>Couteau rouillé</value>
+  </data>
+  <data name="w3" xml:space="preserve">
+    <value>Épée longue</value>
+  </data>
+  <data name="w4" xml:space="preserve">
+    <value>Couteau de combat</value>
+  </data>
+  <data name="w5" xml:space="preserve">
+    <value>Épée</value>
+  </data>
+  <data name="w6" xml:space="preserve">
+    <value>Le souffle du dragon</value>
+  </data>
+  <data name="w7" xml:space="preserve">
+    <value>La puissance de C#</value>
+  </data>
+  <data name="welcome" xml:space="preserve">
+    <value>Bienvenue dans votre voyage !</value>
+  </data>
+  <data name="z1" xml:space="preserve">
+    <value>Un déluge de zombies</value>
+  </data>
+  <data name="z1description" xml:space="preserve">
+    <value>C'est VIVANT ! ILS SONT TOUS VIVANTS !!!</value>
+  </data>
+</root>

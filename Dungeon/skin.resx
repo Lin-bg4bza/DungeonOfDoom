@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="actionNO" xml:space="preserve">
+    <value>You have chosen an improper action...</value>
+  </data>
+  <data name="attack" xml:space="preserve">
+    <value>Attack!</value>
+  </data>
+  <data name="caveman" xml:space="preserve">
+    <value>Ruthless Caveman</value>
+  </data>
+  <data name="cheap" xml:space="preserve">
+    <value>The monster dropped no loot, cheap bastard...</value>
+  </data>
+  <data name="chief" xml:space="preserve">
+    <value>Unassailable Chief</value>
+  </data>
+  <data name="chooseAction" xml:space="preserve">
+    <value>Choose an action:
+1) Attack
+2) Run
+3) Player Information
+4) Monster Information
+5) Exit Application</value>
+  </data>
+  <data name="corpse" xml:space="preserve">
+    <value>Beneath the monster's corpose was... {0}! You found an item!</value>
+  </data>
+  <data name="d1" xml:space="preserve">
+    <value>You killed {0}!</value>
+  </data>
+  <data name="dead" xml:space="preserve">
+    <value>You are dead!</value>
+  </data>
+  <data name="death" xml:space="preserve">
+    <value>The monster delivers the final blow, and as you fell to the ground, you wondered what you did wrong. Maybe you were not born a warrior afterall, or maybe attacking {0} was not as wise as you thought...But none of that matters now. You closed your eyes in remorse and entered your enternal slumber...</value>
+  </data>
+  <data name="deathwing" xml:space="preserve">
+    <value>Dominating Deathwing</value>
+  </data>
+  <data name="defeat" xml:space="preserve">
+    <value>Monsters Defeated: </value>
+  </data>
+  <data name="defeatmonsters" xml:space="preserve">
+    <value>You have defeated {0} monsters!
+(Enter any key to exit)</value>
+  </data>
+  <data name="disgrace" xml:space="preserve">
+    <value>Disgraceful...</value>
+  </data>
+  <data name="elf" xml:space="preserve">
+    <value>Agile Elf</value>
+  </data>
+  <data name="equip" xml:space="preserve">
+    <value>{0} is now equipped!</value>
+  </data>
+  <data name="g2" xml:space="preserve">
+    <value>Demonic Gorilla</value>
+  </data>
+  <data name="g2description" xml:space="preserve">
+    <value>Uh oh, That's a big gorilla</value>
+  </data>
+  <data name="gameover" xml:space="preserve">
+    <value>Game over!
+</value>
+  </data>
+  <data name="gnome" xml:space="preserve">
+    <value>Cute Gnome</value>
+  </data>
+  <data name="goblin" xml:space="preserve">
+    <value>Cunning Goblin</value>
+  </data>
+  <data name="i1" xml:space="preserve">
+    <value>Dragon Tear</value>
+  </data>
+  <data name="i18n" xml:space="preserve">
+    <value>Internationalization</value>
+  </data>
+  <data name="i18n2" xml:space="preserve">
+    <value>A blinding light shines from the corpse of the monster, devouring its body. A line of words rises to the air, you struggle to read what it says...it says 'Unicode is the future'...?
+
+You discovered {0}!</value>
+  </data>
+  <data name="i18n3" xml:space="preserve">
+    <value>A dazzling light shimmers under the monster's limp body, you discovered a legendary item, the {0}!</value>
+  </data>
+  <data name="i2" xml:space="preserve">
+    <value>Odin's Eye</value>
+  </data>
+  <data name="i3" xml:space="preserve">
+    <value>Blizzard Flame</value>
+  </data>
+  <data name="i4" xml:space="preserve">
+    <value>Crown of Destruction</value>
+  </data>
+  <data name="i5" xml:space="preserve">
+    <value>Armor of the Titans</value>
+  </data>
+  <data name="i6" xml:space="preserve">
+    <value>No Item</value>
+  </data>
+  <data name="i7" xml:space="preserve">
+    <value>King of Internationalization</value>
+  </data>
+  <data name="inThisRoom" xml:space="preserve">
+    <value>In this room: {0}</value>
+  </data>
+  <data name="item" xml:space="preserve">
+    <value>You compared the item to the one you had, and discarded it. The one you had was much better.</value>
+  </data>
+  <data name="localization" xml:space="preserve">
+    <value>Localization Professional</value>
+  </data>
+  <data name="loot" xml:space="preserve">
+    <value>The monster dropped a {0}</value>
+  </data>
+  <data name="monsterattack" xml:space="preserve">
+    <value>{0} attacks you as you run!</value>
+  </data>
+  <data name="monsterinfo" xml:space="preserve">
+    <value>Monster Information: </value>
+  </data>
+  <data name="native" xml:space="preserve">
+    <value>Ancient Native</value>
+  </data>
+  <data name="none" xml:space="preserve">
+    <value>None</value>
+  </data>
+  <data name="orc" xml:space="preserve">
+    <value>Indestructible Orc</value>
+  </data>
+  <data name="p1" xml:space="preserve">
+    <value>Health Potion</value>
+  </data>
+  <data name="p2" xml:space="preserve">
+    <value>Health Elixir</value>
+  </data>
+  <data name="p3" xml:space="preserve">
+    <value>Poison Potion</value>
+  </data>
+  <data name="p4" xml:space="preserve">
+    <value>Bandaid</value>
+  </data>
+  <data name="p5" xml:space="preserve">
+    <value>Fatal Poison</value>
+  </data>
+  <data name="playerinfo" xml:space="preserve">
+    <value>Player Information: </value>
+  </data>
+  <data name="poison" xml:space="preserve">
+    <value>Poison</value>
+  </data>
+  <data name="potion" xml:space="preserve">
+    <value>Foolish as you are, you drank the potion in one breath and lost {0} health...  Current health: {1}-{0}/{2}</value>
+  </data>
+  <data name="potion2" xml:space="preserve">
+    <value>You used it and gained {0} health! Current health: {1}+{0}/{2}
+</value>
+  </data>
+  <data name="r1" xml:space="preserve">
+    <value>A Furball rabit</value>
+  </data>
+  <data name="r1description" xml:space="preserve">
+    <value>That's no ordinary rabbit!</value>
+  </data>
+  <data name="rare" xml:space="preserve">
+    <value>Rare</value>
+  </data>
+  <data name="room" xml:space="preserve">
+    <value>Let's delve into the massive dungeon known as Morse Hall</value>
+  </data>
+  <data name="room10" xml:space="preserve">
+    <value>A pit yawns open before you just on the other side of the door's threshold. The entire floor of the room has fallen into a second room beneath it. Across the way you can spy a door in the wall now 15 feet off the rubble-strewn floor, and near the center of the room stands a thick column of mortared stone that appears to hold the spiral staircase that leads down to what was the lower level.</value>
+  </data>
+  <data name="room2" xml:space="preserve">
+    <value>A huge stewpot hangs from a thick iron tripod over a crackling fire in the center of this chamber. A hole in the ceiling allows some of the smoke from the fire to escape, but much of it expands across the ceiling and rolls down to fill the room in a dark fog. Other details are difficult to make out, but some creature must be nearby, because it smells like a good soup is cooking.</value>
+  </data>
+  <data name="room3" xml:space="preserve">
+    <value>Rats inside the room shriek when they hear the door open, then they run in all directions from a putrid corpse lying in the center of the floor. As these creatures crowd around the edges of the room, seeking to crawl through a hole in one corner, they fight one another. The stinking corpse in the middle of the room looks human, but the damage both time and the rats have wrought are enough to make determining its race by appearance an extremely difficult task at best.</value>
+  </data>
+  <data name="room4" xml:space="preserve">
+    <value>This room is shattered. A huge crevasse shears the chamber in half, and the ground and ceilings are tilted away from it. It's as though the room was gripped in two enormous hands and broken like a loaf of bread. Someone has torn a tall stone door from its hinges somewhere else in the dungeon and used it to bridge the 15-foot gap of the chasm between the two sides of the room. Whatever did that must have possessed tremendous strength because the door is huge, and the enormous hinges look bent and mangled.</value>
+  </data>
+  <data name="room5" xml:space="preserve">
+    <value>As soon as you entered the room, a dazzling white light blinds you. Just as you wondered if you finally got out of the dungoen, an eerie sound echoes from the distant, sharpening your mind. When your eyes finally adapted to the light, you looked around in alert and noticed something on the walls. Once you stood closer to it, you realized that the entire wall has the word "death" written all over it in some mysterious red liquid. The unsettling scene gave you goosebumps as you became even more determined about getting out of this place.</value>
+  </data>
+  <data name="room6" xml:space="preserve">
+    <value>This small chamber seems divided into three parts. The first has several hooks on the walls from which hang dusty robes. An open curtain separates that space from the next, which has a dry basin set in the floor. Beyond that lies another parted curtain behind which you can see several straw mats in a semicircle pointing toward a statue of a dog-headed man.</value>
+  </data>
+  <data name="room7" xml:space="preserve">
+    <value>The burble of water reaches your ears after you open the door to this room. You see the source of the noise in the far wall: a large fountain artfully carved to look like a seashell with the figure of a seacat spewing clear water into its basin.</value>
+  </data>
+  <data name="room8" xml:space="preserve">
+    <value>A rusted portcullis stands just beyond the door. Looking into the room, you see three other exits, similarly blocked by portcullises. Four monsters dressed in aged clothing and rusting armor lie on the floor in the room against the walls. They seem in poses of repose rather than violence.</value>
+  </data>
+  <data name="room9" xml:space="preserve">
+    <value>A flurry of bats suddenly flaps through the doorway, their screeching barely audible as they careen past your heads. They flap past you into the rooms and halls beyond. The room from which they came seems barren at first glance.</value>
+  </data>
+  <data name="run" xml:space="preserve">
+    <value>Runnnnnn!!</value>
+  </data>
+  <data name="selected" xml:space="preserve">
+    <value>You have selected {0}!</value>
+  </data>
+  <data name="selectPlayer" xml:space="preserve">
+    <value>Select your player
+A) Viking
+B) Chief
+C) Deathwing
+D) Elf
+E) Caveman
+F) Orc
+G) Gnome
+H) Native
+I) Goblin
+J) Localization Professional</value>
+  </data>
+  <data name="standard" xml:space="preserve">
+    <value>Standard</value>
+  </data>
+  <data name="title" xml:space="preserve">
+    <value>=-=-DUNGEON OF DOOM!-=-=</value>
+  </data>
+  <data name="v1" xml:space="preserve">
+    <value>The Count</value>
+  </data>
+  <data name="v1description" xml:space="preserve">
+    <value>One Vampire</value>
+  </data>
+  <data name="validOption" xml:space="preserve">
+    <value>As a punishment of not choosing a valid option, you have automatically became a Goblin.</value>
+  </data>
+  <data name="viking" xml:space="preserve">
+    <value>Seafaring Viking</value>
+  </data>
+  <data name="w1" xml:space="preserve">
+    <value>Abyssal Whip</value>
+  </data>
+  <data name="w2" xml:space="preserve">
+    <value>Rusted Knife</value>
+  </data>
+  <data name="w3" xml:space="preserve">
+    <value>Long Sword</value>
+  </data>
+  <data name="w4" xml:space="preserve">
+    <value>Combat Knife</value>
+  </data>
+  <data name="w5" xml:space="preserve">
+    <value>Sword</value>
+  </data>
+  <data name="w6" xml:space="preserve">
+    <value>Dragon Breath</value>
+  </data>
+  <data name="w7" xml:space="preserve">
+    <value>The Power of C#</value>
+  </data>
+  <data name="welcome" xml:space="preserve">
+    <value>Welcome to your journey!</value>
+  </data>
+  <data name="z1" xml:space="preserve">
+    <value>A Flood of Zombies</value>
+  </data>
+  <data name="z1description" xml:space="preserve">
+    <value>It's ALIVE! THEY'RE ALL ALIVE!!!</value>
+  </data>
+</root>
