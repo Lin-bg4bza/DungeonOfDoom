@@ -9,9 +9,9 @@ Added Zombies
 
 Added Loot system
 
-Added Localization in Chinese, Japanese, and French
+Added new weapon and race
 
-Added new weapons
+Added Localization in Chinese, Japanese, and French
 
 Adjusted display and colors
 
