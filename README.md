@@ -1,17 +1,21 @@
 # Dungeon of Doom
-Simple C# game by Ebarrieriii @ Github
+Simple C# game by Ebarrieriii @ Github enhanced and localized
 
-Modified, Enhanced, and Localized by Cecilia Lin, Alleia Guerrero, Silu Zhang
-
-12.2022
+Authors
 --
-Added Zombies
+Cecilia Lin, Alleia Guerrero, Silu Zhang
 
+Added Features
+--
 Added Loot system
+
+Added Zombies
 
 Added new weapon and race
 
-Added Localization in Chinese, Japanese, and French
-
 Adjusted display and colors
+
+Locales
+--
+English, Chinese (Simplified), Japanese, French
 
